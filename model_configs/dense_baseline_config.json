@@ -1,0 +1,32 @@
+{
+  "run_params": {
+    "model_type":"dense",
+    "binary": true
+  },
+  "model_params": {
+    "dense_params":{
+      "hidden_units": [8000, 1000],
+      "timedistributed": false,
+      "activation": "relu"
+    },
+    "final_layer_activation": "softmax",
+    "xtra_metric": "acc",
+    "epochs": 100,
+    "steps_per_epoch": 1000,
+    "validation_steps": 1000,
+    "class_weight": {
+      "0": 0.51463198,
+      "1": 17.58585962
+    }
+  },
+  "optimizer_params": {
+    "call": "optimizers.RMSprop(lr=0.0001, rho=0.9)",
+    "loss": "binary_crossentropy"
+  },
+  "data_params": {
+    "lookback": 1001,
+    "target_position": "median",
+    "shuffle": true,
+    "batch_size": 128
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "run_params": {
+    "model_type": "rnn",
+    "floatx": 32,
+    "binary": true
+  },
+  "model_params": {
+    "rnn_params":{
+      "flavor": "gru",
+      "hidden_units": [128, 64],
+      "activation": "tanh",
+      "stateful": false,
+      "bidirectional": true,
+      "recurrent_dropout": {
+      	"0": 0.2,
+      	"1": 0.2
+      }
+    },
+    "dense_params": {
+      "timedistributed": true,
+      "activation": "sigmoid"
+    },
+    "xtra_metric": "acc",
+    "epochs": 750,
+    "steps_per_epoch": 100,
+    "validation_steps": 5,
+    "checkpoint_every": 1000,
+    "validate_every": 500,
+    "target": "nucleosome"
+  },
+  "optimizer_params": {
+    "call": "optimizers.Adam()",
+    "loss": "binary_crossentropy"
+  },
+  "data_params": {
+    "lookback": 400,
+    "target_position": "all",
+    "shuffle": false,
+    "batch_size": 128,
+    "step_size": 400,
+    "no_one_class_samples": false
+  },
+  "preprocessor_params": {
+    "target": {
+      "method": "pad",
+      "pad_len": 5
+    }
+  },
+  "postprocessor_params": {
+    "ncp_location": {
+      "min_max": 0.2,
+      "min_nuc_sep": 107
+    }
+  }
+}

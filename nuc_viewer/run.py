@@ -1,0 +1,1 @@
+from nuc_viewer_app.routes import app

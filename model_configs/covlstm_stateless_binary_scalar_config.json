@@ -1,0 +1,64 @@
+{
+  "run_params": {
+    "model_type":"covrnn",
+    "binary": true
+  },
+  "model_params": {
+    "xtra_metric": "acc",
+    "epochs": 300,
+    "steps_per_epoch": 50,
+    "validation_steps": 50,
+    "target": "nucleosome",
+    "covnet_params":{
+      "filters": [64, 32],
+      "kernel_sizes": [32, 16],
+      "strides": [5, 2],
+      "pool_sizes": [5, 1],
+      "activation": "relu"
+    },
+    "rnn_params":{
+      "flavor": "gru",
+      "hidden_units": [32],
+      "activation": "relu",
+      "stateful": false,
+      "bidirectional": true,
+      "dropout": {
+      	"0": 0.2,
+      	"1": 0.2
+      },
+      "recurrent_dropout": {
+      	"0": 0.2,
+      	"1": 0.2
+      }
+    },
+    "dense_params":{
+      "timedistributed": false,
+      "activation": "sigmoid"
+    }
+  },
+  "optimizer_params": {
+    "call": "optimizers.Adam()",
+    "loss": "binary_crossentropy"
+  },
+  "data_params": {
+    "lookback": 5000,
+    "target_position": "median",
+    "shuffle": true,
+    "shuffle_between": false,
+    "batch_size": 128,
+    "step_size": 10,
+    "no_one_class_samples": false
+  },
+  "preprocessor_params": {
+    "target": {
+      "method": "pad",
+      "pad_len": 10
+    }
+  },
+  "postprocessor_params": {
+    "ncp_location": {
+      "min_max": 0.0,
+      "min_nuc_sep": 107
+    }
+  }
+}

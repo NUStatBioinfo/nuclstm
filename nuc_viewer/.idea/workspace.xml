@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7c77be8-271f-4fc4-a2ba-a27141f77555" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="routes.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nuc_viewer_app/routes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2100">
+              <caret line="151" column="59" lean-forward="false" selection-start-line="151" selection-start-column="59" selection-end-line="151" selection-end-column="59" />
+              <folding>
+                <element signature="e#0#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="analysis.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nuc_viewer_app/analysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="66" column="20" lean-forward="false" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nuc_viewer_app/static/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chromosome.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/nuc_viewer_app/templates/chromosome.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nuc_viewer_app/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/nuc_viewer_app/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fixes</find>
+      <find>action</find>
+      <find>text</find>
+      <find>input_file</find>
+      <find>url</find>
+      <find>dropout</find>
+      <find>app_path</find>
+      <find>red</find>
+      <find>container</find>
+      <find>summary</find>
+      <find>url_for</find>
+      <find>nucleosome</find>
+      <find>saving</find>
+      <find>save</find>
+      <find>shuffle_between</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/templates/base.html" />
+        <option value="$PROJECT_DIR$/app/static/js/input_button.js" />
+        <option value="$PROJECT_DIR$/app/templates/index.html" />
+        <option value="$PROJECT_DIR$/app/forms.py" />
+        <option value="$PROJECT_DIR$/app/logger.py" />
+        <option value="$PROJECT_DIR$/app/__init__.py" />
+        <option value="$PROJECT_DIR$/app/routes.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/logger.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/__init__.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/forms.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/config.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/static/style.css" />
+        <option value="/private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/evaluation.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/TODO.md" />
+        <option value="/private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/models.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/templates/base.html" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/static/css/style.css" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/templates/index.html" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/plotting.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/analysis.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/routes.py" />
+        <option value="$PROJECT_DIR$/nuc_viewer_app/templates/chromosome.html" />
+        <option value="/private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/loaders.py" />
+        <option value="/private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/src/run_nuclstm.py" />
+        <option value="/private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/src/nuclstm.sh" />
+        <option value="/private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/model_configs/gru_binary_sequence_config.json" />
+        <option value="/private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/postprocessors.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="125" />
+    <option name="y" value="51" />
+    <option name="width" value="995" />
+    <option name="height" value="605" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="nuc_viewer_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/static/js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nuc_viewer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nuc_viewer" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nuc_viewer" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="nuc_viewer" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7c77be8-271f-4fc4-a2ba-a27141f77555" name="Default" comment="" />
+      <created>1526876889077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526876889077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="125" y="51" width="995" height="605" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19296482" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2184" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__050618_162535/gru_binary_sequence.txt" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/data/data_approaches.png" />
+    <entry file="file://$PROJECT_DIR$/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="29" lean-forward="false" selection-start-line="0" selection-start-column="29" selection-end-line="0" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/TODO.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/models.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/evaluation.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052718_183659/training_progress.png" />
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052818_144741/pred_plot_chr_8.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052818_144741/corr_heatmap_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052818_144741/sensitivity_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052718_183659/sensitivity_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052718_183659/sensitivity_8.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052818_144741/sensitivity_8.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__052818_144741/training_progress.png" />
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/plotting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="50" column="23" lean-forward="false" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="66" column="20" lean-forward="false" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/routes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="151" column="59" lean-forward="false" selection-start-line="151" selection-start-column="59" selection-end-line="151" selection-end-column="59" />
+          <folding>
+            <element signature="e#0#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_170802/training_progress.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_170802/sensitivity_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_170802/precision_recall_chr_11.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_170802/pred_plot_chr_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/train.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/utils.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/loaders.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/sensitivity_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/roc_chr_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/pred_plot_chr_8.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/sensitivity_10.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/sensitivity_8.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/precision_recall_chr_8.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/precision_recall_chr_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/precision_recall_chr_10.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/training_progress.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/gru_binary_sequence.txt" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_214007/gru_binary_sequence_config.json" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/src/nuclstm.sh" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/model_configs/gru_binary_sequence_config.json" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_170802/pred_plot_chr_11.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_170802/corr_heatmap_11.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/preprocessors.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/nuclstm/postprocessors.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_224208/roc_chr_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_224208/pred_plot_chr_9.png" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/nuclstm/src/run_nuclstm.py" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_224208/gru_binary_sequence_config.json" />
+    <entry file="file:///private/var/folders/h0/8qt690nx1x94v0bg90cjz7940000gn/T/92c6b2f6-8a77-4a9c-a64f-59945a70fad0/home/frf594/jiping_research/model_output/gru_binary_sequence__060618_224208/training_progress.png" />
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="14" lean-forward="false" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nuc_viewer_app/templates/chromosome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block page_content %}
+
+<link
+    href="http://cdn.pydata.org/bokeh/release/bokeh-0.12.16.min.css"
+    rel="stylesheet" type="text/css">
+<link
+    href="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.16.min.css"
+    rel="stylesheet" type="text/css">
+<link
+    href="{{ url_for('static',filename='css/style.css') }}"
+    rel="stylesheet" type="text/css">
+
+<script src="http://cdn.pydata.org/bokeh/release/bokeh-0.12.16.min.js"></script>
+<script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-0.12.16.min.js"></script>
+
+<div class="row">
+    <h2>Chromosome {{ chromosome }} results</h2>
+</div>
+
+<p>&nbsp;</p>
+<div class="display" align="center">
+    {% if ksens_script %}
+        <h3>Model sensitivity analysis</h3>
+        {{ ksens_script|safe }}
+        {{ ksens_div|safe }}
+    {% endif %}
+</div>
+
+<p>&nbsp;</p>
+<div class="row" align="center">
+    {% if summary_table %}
+        <h3>Model comparison metrics</h3>
+        {{ summary_table|safe }}
+    {% endif %}
+</div>
+
+
+<p>&nbsp;</p>
+
+<form action="/uploaded_file" method="POST">
+    <div style="display: flex;">
+        <div style="width:500px; height:275px;">
+            <h3>Select features to view</h3>
+            <select id="feature_names" name="feature_names" multiple class="form-control" style="width: 250px; height: 200px">
+                {% for feature in feature_names %}
+                    <option> {{ feature }} </option>
+                {% endfor %}
+            </select>
+        </div>
+        <div style="width:500px; height:275px;">
+            <h3>Select base position range</h3>
+            Start
+            <input type="number" name="start_position" value="0">
+            <br/>
+            End
+            <input type="number" name="end_position" value="10000">
+            <br/>
+            max y-axis
+            <input name="y_max" value="max(selected_features)" style="font-color:#B8B8B8"/>
+        </div>
+    </div>
+    <center>
+        <input type="submit">
+    </center>
+</form>
+
+<p>&nbsp;</p>
+<div class="display" align="center">
+    {% if selected_features %}
+        <h3>selected features by position</h3>
+        {{ pos_script|safe }}
+        {{ pos_div|safe }}
+    {% else %}
+        <p>No features have been selected</p>
+    {% endif %}
+</div>
+
+<p>&nbsp;</p>
+<div class="row" align="center">
+    {% if corr_table %}
+        <h3>correlation matrix</h3>
+        {{ corr_table|safe }}
+    {% endif %}
+</div>
+
+
+
+{% endblock %}

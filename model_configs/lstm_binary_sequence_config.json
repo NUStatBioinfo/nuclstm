@@ -1,0 +1,46 @@
+{
+  "run_params": {
+    "model_type": "rnn",
+    "binary": true
+  },
+  "model_params": {
+    "rnn_params":{
+      "flavor": "lstm",
+      "hidden_units": [32, 64],
+      "activation": "tanh",
+      "stateful": true,
+      "bidirectional": true,
+      "dropout": {
+        "0": 0.2,
+        "1": 0.2
+      }
+    },
+    "dense_params": {
+      "timedistributed": true,
+      "activation": "sigmoid"
+    },
+    "xtra_metric": "acc",
+    "epochs": 2000,
+    "steps_per_epoch": 1,
+    "validation_steps": 10,
+    "target": "nucleosome"
+  },
+  "optimizer_params": {
+    "call": "optimizers.Adam()",
+    "loss": "binary_crossentropy"
+  },
+  "data_params": {
+    "lookback": 250,
+    "target_position": "all",
+    "shuffle": false,
+    "batch_size": 128,
+    "step_size": 250,
+    "no_one_class_samples": false
+  },
+  "preprocessor_params": {
+    "target": {
+      "method": "pad",
+      "pad_len": 15
+    }
+  }
+}
