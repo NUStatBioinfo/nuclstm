@@ -4,7 +4,7 @@ appnope==0.1.0
 astor==0.6.2
 attrs==17.3.0
 biopython==1.71
-bleach==1.5.0
+bleach==3.3.0
 bokeh==0.12.16
 boto==2.48.0
 boto3==1.4.8
