@@ -69,7 +69,7 @@ py==1.5.2
 pyarrow==0.11.1
 pycparser==2.18
 Pydap==3.2.2
-Pygments==2.2.0
+Pygments==2.7.4
 PyInstaller==3.3.1
 pyparsing==2.2.0
 Pyphen==0.9.4
